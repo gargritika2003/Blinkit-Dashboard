@@ -49,7 +49,7 @@ The dashboard provides meaningful insights into sales performance, product categ
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ---
 
